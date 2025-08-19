@@ -1,5 +1,5 @@
 from src.agent.single_agent import Agent
-from src.agent.utils.message_template import pretty_print_messages
+from src.utils.message_template import pretty_print_messages
 
 def chat():
     """

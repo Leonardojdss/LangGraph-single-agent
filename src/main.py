@@ -9,7 +9,7 @@ Autor: Leonardo José da Silva
 GitHub: https://github.com/Leonardojdss
 """
 
-from src.agent.utils.chat import chat
+from src.utils.chat import chat
 
 if __name__ == "__main__":
     chat()
