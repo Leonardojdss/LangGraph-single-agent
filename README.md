@@ -129,3 +129,4 @@ User: o que tem nessa página https://github.com/Leonardojdss
 
 **Leonardo José da Silva**
 - GitHub: [@Leonardojdss](https://github.com/Leonardojdss)
+- LinkedIn: [Leonardo José da Silva](https://www.linkedin.com/in/leonardojdss/)
